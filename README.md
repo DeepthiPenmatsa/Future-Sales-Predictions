@@ -46,6 +46,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 We would like to acknowledge the authors of the advertising dataset used in this project for providing valuable data for analysis and modeling.
 
-## Contact
 
-For any questions or inquiries, please contact [Mohamed Shaad] at [shaadclt@gmail.com].
